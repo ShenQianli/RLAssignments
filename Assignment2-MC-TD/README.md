@@ -10,6 +10,5 @@ You are required to complete ```try.py``` to reproduce the results showed in Lec
 If you find it difficult, you can refer to ```run.py``` for inspiration.
 
 ### BONUS
-(a) We choose discounted factor 1.0 for this task so TD([0,1]) are all equivalent. 
-You can try to modify the discounted factor and sweep [0,1] for lambda, just like what we did for alpha, to see its 
+(a) You can try to implement TD(lambda) and sweep [0,1] for lambda, just like what we did for alpha, to see its 
 impact on value estimation.
